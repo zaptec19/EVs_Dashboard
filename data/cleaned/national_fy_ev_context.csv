@@ -1,0 +1,436 @@
+TIME_PERIOD,MODE,FUEL_TYPE,OBS_VALUE,UNIT_MEASURE
+FY2011,2W,EV,4068,Registrations
+FY2011,2W,Petrol,10467018,Registrations
+FY2011,3W Passenger,EV,19,Registrations
+FY2011,3W Passenger,Diesel,218672,Registrations
+FY2011,3W Passenger,Petrol/CNG,39917,Registrations
+FY2011,3W Goods,EV,7,Registrations
+FY2011,3W Goods,Diesel,57535,Registrations
+FY2011,3W Goods,CNG,6835,Registrations
+FY2011,Cars,EV,411,Registrations
+FY2011,Cars,Diesel,875334,Registrations
+FY2011,Cars,Petrol,1185924,Registrations
+FY2011,Bus,EV,2,Registrations
+FY2011,Bus,Diesel,90256,Registrations
+FY2011,LGV (up to 7/5 tonnes),EV,24,Registrations
+FY2011,LGV (up to 7/5 tonnes),Diesel,299014,Registrations
+FY2011,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2011,MGV (7.5-12 tonnes),Diesel,48147,Registrations
+FY2011,HGV (>12 tonnes),EV,7,Registrations
+FY2011,HGV (>12 tonnes),Diesel,233267,Registrations
+FY2011,Others,EV,358,Registrations
+FY2011,2W,Other,18635,Registrations
+FY2011,3W Passenger,Other,105799,Registrations
+FY2011,3W Goods,Other,1360,Registrations
+FY2011,Cars,Other,269910,Registrations
+FY2011,Bus,Other,19023,Registrations
+FY2011,LGV (up to 7/5 tonnes),Other,13013,Registrations
+FY2011,MGV (7.5-12 tonnes),Other,484,Registrations
+FY2011,HGV (>12 tonnes),Other,1437,Registrations
+FY2011,Others,Other,529394,Registrations
+FY2012,2W,EV,6662,Registrations
+FY2012,2W,Petrol,12355175,Registrations
+FY2012,3W Passenger,EV,28,Registrations
+FY2012,3W Passenger,Diesel,199938,Registrations
+FY2012,3W Passenger,Petrol/CNG,48040,Registrations
+FY2012,3W Goods,EV,10,Registrations
+FY2012,3W Goods,Diesel,69966,Registrations
+FY2012,3W Goods,CNG,6280,Registrations
+FY2012,Cars,EV,698,Registrations
+FY2012,Cars,Diesel,1170069,Registrations
+FY2012,Cars,Petrol,1097594,Registrations
+FY2012,Bus,EV,4,Registrations
+FY2012,Bus,Diesel,98022,Registrations
+FY2012,LGV (up to 7/5 tonnes),EV,24,Registrations
+FY2012,LGV (up to 7/5 tonnes),Diesel,381889,Registrations
+FY2012,MGV (7.5-12 tonnes),EV,1,Registrations
+FY2012,MGV (7.5-12 tonnes),Diesel,43776,Registrations
+FY2012,HGV (>12 tonnes),EV,10,Registrations
+FY2012,HGV (>12 tonnes),Diesel,252254,Registrations
+FY2012,Others,EV,223,Registrations
+FY2012,2W,Other,16757,Registrations
+FY2012,3W Passenger,Other,119660,Registrations
+FY2012,3W Goods,Other,1688,Registrations
+FY2012,Cars,Other,275580,Registrations
+FY2012,Bus,Other,16280,Registrations
+FY2012,LGV (up to 7/5 tonnes),Other,-24,Registrations
+FY2012,MGV (7.5-12 tonnes),Other,502,Registrations
+FY2012,HGV (>12 tonnes),Other,2320,Registrations
+FY2012,Others,Other,621137,Registrations
+FY2013,2W,EV,3477,Registrations
+FY2013,2W,Petrol,12967756,Registrations
+FY2013,3W Passenger,EV,17,Registrations
+FY2013,3W Passenger,Diesel,266284,Registrations
+FY2013,3W Passenger,Petrol/CNG,71010,Registrations
+FY2013,3W Goods,EV,14,Registrations
+FY2013,3W Goods,Diesel,67844,Registrations
+FY2013,3W Goods,CNG,4034,Registrations
+FY2013,Cars,EV,229,Registrations
+FY2013,Cars,Diesel,1446377,Registrations
+FY2013,Cars,Petrol,923852,Registrations
+FY2013,Bus,EV,1,Registrations
+FY2013,Bus,Diesel,107921,Registrations
+FY2013,LGV (up to 7/5 tonnes),EV,28,Registrations
+FY2013,LGV (up to 7/5 tonnes),Diesel,429138,Registrations
+FY2013,MGV (7.5-12 tonnes),EV,1,Registrations
+FY2013,MGV (7.5-12 tonnes),Diesel,34990,Registrations
+FY2013,HGV (>12 tonnes),EV,11,Registrations
+FY2013,HGV (>12 tonnes),Diesel,200494,Registrations
+FY2013,Others,EV,263,Registrations
+FY2013,2W,Other,18028,Registrations
+FY2013,3W Passenger,Other,71131,Registrations
+FY2013,3W Goods,Other,1110,Registrations
+FY2013,Cars,Other,216370,Registrations
+FY2013,Bus,Other,14421,Registrations
+FY2013,LGV (up to 7/5 tonnes),Other,12285,Registrations
+FY2013,MGV (7.5-12 tonnes),Other,314,Registrations
+FY2013,HGV (>12 tonnes),Other,5039,Registrations
+FY2013,Others,Other,651934,Registrations
+FY2014,2W,EV,1895,Registrations
+FY2014,2W,Petrol,13667561,Registrations
+FY2014,3W Passenger,EV,23,Registrations
+FY2014,3W Passenger,Diesel,232101,Registrations
+FY2014,3W Passenger,Petrol/CNG,59129,Registrations
+FY2014,3W Goods,EV,4,Registrations
+FY2014,3W Goods,Diesel,68843,Registrations
+FY2014,3W Goods,CNG,2321,Registrations
+FY2014,Cars,EV,451,Registrations
+FY2014,Cars,Diesel,1317928,Registrations
+FY2014,Cars,Petrol,946996,Registrations
+FY2014,Bus,EV,2,Registrations
+FY2014,Bus,Diesel,101094,Registrations
+FY2014,LGV (up to 7/5 tonnes),EV,37,Registrations
+FY2014,LGV (up to 7/5 tonnes),Diesel,386878,Registrations
+FY2014,MGV (7.5-12 tonnes),EV,1,Registrations
+FY2014,MGV (7.5-12 tonnes),Diesel,25540,Registrations
+FY2014,HGV (>12 tonnes),EV,10,Registrations
+FY2014,HGV (>12 tonnes),Diesel,156228,Registrations
+FY2014,Others,EV,205,Registrations
+FY2014,2W,Other,16197,Registrations
+FY2014,3W Passenger,Other,61997,Registrations
+FY2014,3W Goods,Other,682,Registrations
+FY2014,Cars,Other,176890,Registrations
+FY2014,Bus,Other,15257,Registrations
+FY2014,LGV (up to 7/5 tonnes),Other,12293,Registrations
+FY2014,MGV (7.5-12 tonnes),Other,328,Registrations
+FY2014,HGV (>12 tonnes),Other,1858,Registrations
+FY2014,Others,Other,716680,Registrations
+FY2015,2W,EV,1569,Registrations
+FY2015,2W,Petrol,14934713,Registrations
+FY2015,3W Passenger,EV,10,Registrations
+FY2015,3W Passenger,Diesel,229734,Registrations
+FY2015,3W Passenger,Petrol/CNG,90492,Registrations
+FY2015,3W Goods,EV,4,Registrations
+FY2015,3W Goods,Diesel,74913,Registrations
+FY2015,3W Goods,CNG,2671,Registrations
+FY2015,Cars,EV,634,Registrations
+FY2015,Cars,Diesel,1255374,Registrations
+FY2015,Cars,Petrol,1107683,Registrations
+FY2015,Bus,EV,3,Registrations
+FY2015,Bus,Diesel,87589,Registrations
+FY2015,LGV (up to 7/5 tonnes),EV,14,Registrations
+FY2015,LGV (up to 7/5 tonnes),Diesel,334249,Registrations
+FY2015,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2015,MGV (7.5-12 tonnes),Diesel,21893,Registrations
+FY2015,HGV (>12 tonnes),EV,5,Registrations
+FY2015,HGV (>12 tonnes),Diesel,171624,Registrations
+FY2015,Others,EV,163,Registrations
+FY2015,2W,Other,25169,Registrations
+FY2015,3W Passenger,Other,81569,Registrations
+FY2015,3W Goods,Other,718,Registrations
+FY2015,Cars,Other,204308,Registrations
+FY2015,Bus,Other,18502,Registrations
+FY2015,LGV (up to 7/5 tonnes),Other,14827,Registrations
+FY2015,MGV (7.5-12 tonnes),Other,203,Registrations
+FY2015,HGV (>12 tonnes),Other,1416,Registrations
+FY2015,Others,Other,747605,Registrations
+FY2016,2W,EV,1471,Registrations
+FY2016,2W,Petrol,15548753,Registrations
+FY2016,3W Passenger,EV,590,Registrations
+FY2016,3W Passenger,Diesel,222243,Registrations
+FY2016,3W Passenger,Petrol/CNG,92490,Registrations
+FY2016,3W Goods,EV,9,Registrations
+FY2016,3W Goods,Diesel,75258,Registrations
+FY2016,3W Goods,CNG,2972,Registrations
+FY2016,Cars,EV,782,Registrations
+FY2016,Cars,Diesel,1208750,Registrations
+FY2016,Cars,Petrol,1270333,Registrations
+FY2016,Bus,EV,4,Registrations
+FY2016,Bus,Diesel,95320,Registrations
+FY2016,LGV (up to 7/5 tonnes),EV,14,Registrations
+FY2016,LGV (up to 7/5 tonnes),Diesel,322987,Registrations
+FY2016,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2016,MGV (7.5-12 tonnes),Diesel,24493,Registrations
+FY2016,HGV (>12 tonnes),EV,5,Registrations
+FY2016,HGV (>12 tonnes),Diesel,220015,Registrations
+FY2016,Others,EV,162,Registrations
+FY2016,2W,Other,27612,Registrations
+FY2016,3W Passenger,Other,80615,Registrations
+FY2016,3W Goods,Other,890,Registrations
+FY2016,Cars,Other,218548,Registrations
+FY2016,Bus,Other,18124,Registrations
+FY2016,LGV (up to 7/5 tonnes),Other,15606,Registrations
+FY2016,MGV (7.5-12 tonnes),Other,239,Registrations
+FY2016,HGV (>12 tonnes),Other,1729,Registrations
+FY2016,Others,Other,668320,Registrations
+FY2017,2W,EV,1394,Registrations
+FY2017,2W,Petrol,16733216,Registrations
+FY2017,3W Passenger,EV,1176,Registrations
+FY2017,3W Passenger,Diesel,206240,Registrations
+FY2017,3W Passenger,Petrol/CNG,97412,Registrations
+FY2017,3W Goods,EV,33,Registrations
+FY2017,3W Goods,Diesel,80598,Registrations
+FY2017,3W Goods,CNG,1155,Registrations
+FY2017,Cars,EV,769,Registrations
+FY2017,Cars,Diesel,1170548,Registrations
+FY2017,Cars,Petrol,1447845,Registrations
+FY2017,Bus,EV,4,Registrations
+FY2017,Bus,Diesel,102217,Registrations
+FY2017,LGV (up to 7/5 tonnes),EV,108,Registrations
+FY2017,LGV (up to 7/5 tonnes),Diesel,335900,Registrations
+FY2017,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2017,MGV (7.5-12 tonnes),Diesel,28347,Registrations
+FY2017,HGV (>12 tonnes),EV,3,Registrations
+FY2017,HGV (>12 tonnes),Diesel,232306,Registrations
+FY2017,Others,EV,481,Registrations
+FY2017,2W,Other,25861,Registrations
+FY2017,3W Passenger,Other,88159,Registrations
+FY2017,3W Goods,Other,5408,Registrations
+FY2017,Cars,Other,285561,Registrations
+FY2017,Bus,Other,18950,Registrations
+FY2017,LGV (up to 7/5 tonnes),Other,15946,Registrations
+FY2017,MGV (7.5-12 tonnes),Other,949,Registrations
+FY2017,HGV (>12 tonnes),Other,1411,Registrations
+FY2017,Others,Other,723401,Registrations
+FY2018,2W,EV,2008,Registrations
+FY2018,2W,Petrol,18531131,Registrations
+FY2018,3W Passenger,EV,560,Registrations
+FY2018,3W Passenger,Diesel,189358,Registrations
+FY2018,3W Passenger,Petrol/CNG,169484,Registrations
+FY2018,3W Goods,EV,137,Registrations
+FY2018,3W Goods,Diesel,93110,Registrations
+FY2018,3W Goods,CNG,289,Registrations
+FY2018,Cars,EV,1213,Registrations
+FY2018,Cars,Diesel,1197222,Registrations
+FY2018,Cars,Petrol,1657014,Registrations
+FY2018,Bus,EV,41,Registrations
+FY2018,Bus,Diesel,87460,Registrations
+FY2018,LGV (up to 7/5 tonnes),EV,661,Registrations
+FY2018,LGV (up to 7/5 tonnes),Diesel,403787,Registrations
+FY2018,MGV (7.5-12 tonnes),EV,1,Registrations
+FY2018,MGV (7.5-12 tonnes),Diesel,25008,Registrations
+FY2018,HGV (>12 tonnes),EV,0,Registrations
+FY2018,HGV (>12 tonnes),Diesel,243395,Registrations
+FY2018,Others,EV,556,Registrations
+FY2018,2W,Other,9192,Registrations
+FY2018,3W Passenger,Other,98957,Registrations
+FY2018,3W Goods,Other,3723,Registrations
+FY2018,Cars,Other,297929,Registrations
+FY2018,Bus,Other,18344,Registrations
+FY2018,LGV (up to 7/5 tonnes),Other,17631,Registrations
+FY2018,MGV (7.5-12 tonnes),Other,2279,Registrations
+FY2018,HGV (>12 tonnes),Other,993,Registrations
+FY2018,Others,Other,826079,Registrations
+FY2019,2W,EV,28494,Registrations
+FY2019,2W,Petrol,19470481,Registrations
+FY2019,3W Passenger,EV,558,Registrations
+FY2019,3W Passenger,Diesel,212313,Registrations
+FY2019,3W Passenger,Petrol/CNG,190779,Registrations
+FY2019,3W Goods,EV,303,Registrations
+FY2019,3W Goods,Diesel,108970,Registrations
+FY2019,3W Goods,CNG,36,Registrations
+FY2019,Cars,EV,1841,Registrations
+FY2019,Cars,Diesel,1112986,Registrations
+FY2019,Cars,Petrol,1681582,Registrations
+FY2019,Bus,EV,146,Registrations
+FY2019,Bus,Diesel,90947,Registrations
+FY2019,LGV (up to 7/5 tonnes),EV,478,Registrations
+FY2019,LGV (up to 7/5 tonnes),Diesel,494658,Registrations
+FY2019,MGV (7.5-12 tonnes),EV,1,Registrations
+FY2019,MGV (7.5-12 tonnes),Diesel,33528,Registrations
+FY2019,HGV (>12 tonnes),EV,0,Registrations
+FY2019,HGV (>12 tonnes),Diesel,292440,Registrations
+FY2019,Others,EV,289,Registrations
+FY2019,2W,Other,2144,Registrations
+FY2019,3W Passenger,Other,130487,Registrations
+FY2019,3W Goods,Other,6328,Registrations
+FY2019,Cars,Other,366955,Registrations
+FY2019,Bus,Other,15896,Registrations
+FY2019,LGV (up to 7/5 tonnes),Other,24911,Registrations
+FY2019,MGV (7.5-12 tonnes),Other,4163,Registrations
+FY2019,HGV (>12 tonnes),Other,667,Registrations
+FY2019,Others,Other,942868,Registrations
+FY2020,2W,EV,28147,Registrations
+FY2020,2W,Petrol,19033151,Registrations
+FY2020,3W Passenger,EV,1491,Registrations
+FY2020,3W Passenger,Diesel,252799,Registrations
+FY2020,3W Passenger,Petrol/CNG,172802,Registrations
+FY2020,3W Goods,EV,342,Registrations
+FY2020,3W Goods,Diesel,119735,Registrations
+FY2020,3W Goods,CNG,46,Registrations
+FY2020,Cars,EV,3215,Registrations
+FY2020,Cars,Diesel,943765,Registrations
+FY2020,Cars,Petrol,1662092,Registrations
+FY2020,Bus,EV,492,Registrations
+FY2020,Bus,Diesel,100426,Registrations
+FY2020,LGV (up to 7/5 tonnes),EV,43,Registrations
+FY2020,LGV (up to 7/5 tonnes),Diesel,509290,Registrations
+FY2020,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2020,MGV (7.5-12 tonnes),Diesel,31885,Registrations
+FY2020,HGV (>12 tonnes),EV,0,Registrations
+FY2020,HGV (>12 tonnes),Diesel,210498,Registrations
+FY2020,Others,EV,29,Registrations
+FY2020,2W,Other,1539633,Registrations
+FY2020,3W Passenger,Other,193890,Registrations
+FY2020,3W Goods,Other,8211,Registrations
+FY2020,Cars,Other,346761,Registrations
+FY2020,Bus,Other,9089,Registrations
+FY2020,LGV (up to 7/5 tonnes),Other,65464,Registrations
+FY2020,MGV (7.5-12 tonnes),Other,7784,Registrations
+FY2020,HGV (>12 tonnes),Other,5332,Registrations
+FY2020,Others,Other,874216,Registrations
+FY2021,2W,EV,49486,Registrations
+FY2021,2W,Petrol,13220064,Registrations
+FY2021,3W Passenger,EV,1667,Registrations
+FY2021,3W Passenger,Diesel,58844,Registrations
+FY2021,3W Passenger,Petrol/CNG,13496,Registrations
+FY2021,3W Goods,EV,843,Registrations
+FY2021,3W Goods,Diesel,59951,Registrations
+FY2021,3W Goods,CNG,5097,Registrations
+FY2021,Cars,EV,5901,Registrations
+FY2021,Cars,Diesel,430733,Registrations
+FY2021,Cars,Petrol,1809794,Registrations
+FY2021,Bus,EV,380,Registrations
+FY2021,Bus,Diesel,14353,Registrations
+FY2021,LGV (up to 7/5 tonnes),EV,31,Registrations
+FY2021,LGV (up to 7/5 tonnes),Diesel,265485,Registrations
+FY2021,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2021,MGV (7.5-12 tonnes),Diesel,20357,Registrations
+FY2021,HGV (>12 tonnes),EV,0,Registrations
+FY2021,HGV (>12 tonnes),Diesel,82316,Registrations
+FY2021,Others,EV,35,Registrations
+FY2021,2W,Other,1009878,Registrations
+FY2021,3W Passenger,Other,69044,Registrations
+FY2021,3W Goods,Other,1034,Registrations
+FY2021,Cars,Other,323589,Registrations
+FY2021,Bus,Other,1295,Registrations
+FY2021,LGV (up to 7/5 tonnes),Other,80859,Registrations
+FY2021,MGV (7.5-12 tonnes),Other,1567,Registrations
+FY2021,HGV (>12 tonnes),Other,4891,Registrations
+FY2021,Others,Other,963005,Registrations
+FY2022,2W,EV,279893,Registrations
+FY2022,2W,Petrol,13272505,Registrations
+FY2022,3W Passenger,EV,5207,Registrations
+FY2022,3W Passenger,Diesel,34482,Registrations
+FY2022,3W Passenger,Petrol/CNG,15706,Registrations
+FY2022,3W Goods,EV,6603,Registrations
+FY2022,3W Goods,Diesel,52226,Registrations
+FY2022,3W Goods,CNG,18416,Registrations
+FY2022,Cars,EV,21194,Registrations
+FY2022,Cars,Diesel,546141,Registrations
+FY2022,Cars,Petrol,1956719,Registrations
+FY2022,Bus,EV,1194,Registrations
+FY2022,Bus,Diesel,17808,Registrations
+FY2022,LGV (up to 7/5 tonnes),EV,1021,Registrations
+FY2022,LGV (up to 7/5 tonnes),Diesel,287321,Registrations
+FY2022,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2022,MGV (7.5-12 tonnes),Diesel,21324,Registrations
+FY2022,HGV (>12 tonnes),EV,0,Registrations
+FY2022,HGV (>12 tonnes),Diesel,155788,Registrations
+FY2022,Others,EV,99,Registrations
+FY2022,2W,Other,1092895,Registrations
+FY2022,3W Passenger,Other,133367,Registrations
+FY2022,3W Goods,Other,2705,Registrations
+FY2022,Cars,Other,403088,Registrations
+FY2022,Bus,Other,1891,Registrations
+FY2022,LGV (up to 7/5 tonnes),Other,152174,Registrations
+FY2022,MGV (7.5-12 tonnes),Other,15875,Registrations
+FY2022,HGV (>12 tonnes),Other,15670,Registrations
+FY2022,Others,Other,947567,Registrations
+FY2023,2W,EV,783373,Registrations
+FY2023,2W,Petrol,15301431,Registrations
+FY2023,3W Passenger,EV,15374,Registrations
+FY2023,3W Passenger,Diesel,51450,Registrations
+FY2023,3W Passenger,Petrol/CNG,17298,Registrations
+FY2023,3W Goods,EV,16067,Registrations
+FY2023,3W Goods,Diesel,55472,Registrations
+FY2023,3W Goods,CNG,22748,Registrations
+FY2023,Cars,EV,54471,Registrations
+FY2023,Cars,Diesel,686796,Registrations
+FY2023,Cars,Petrol,2192892,Registrations
+FY2023,Bus,EV,2008,Registrations
+FY2023,Bus,Diesel,48010,Registrations
+FY2023,LGV (up to 7/5 tonnes),EV,453,Registrations
+FY2023,LGV (up to 7/5 tonnes),Diesel,395725,Registrations
+FY2023,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2023,MGV (7.5-12 tonnes),Diesel,27980,Registrations
+FY2023,HGV (>12 tonnes),EV,183,Registrations
+FY2023,HGV (>12 tonnes),Diesel,236679,Registrations
+FY2023,Others,EV,100,Registrations
+FY2023,2W,Other,5679162,Registrations
+FY2023,3W Passenger,Other,234190,Registrations
+FY2023,3W Goods,Other,2856,Registrations
+FY2023,Cars,Other,681342,Registrations
+FY2023,Bus,Other,6153,Registrations
+FY2023,LGV (up to 7/5 tonnes),Other,163620,Registrations
+FY2023,MGV (7.5-12 tonnes),Other,9557,Registrations
+FY2023,HGV (>12 tonnes),Other,13697,Registrations
+FY2023,Others,Other,1039172,Registrations
+FY2024,2W,EV,1012841,Registrations
+FY2024,2W,Petrol,16578332,Registrations
+FY2024,3W Passenger,EV,69923,Registrations
+FY2024,3W Passenger,Diesel,72759,Registrations
+FY2024,3W Passenger,Petrol/CNG,2047,Registrations
+FY2024,3W Goods,EV,31758,Registrations
+FY2024,3W Goods,Diesel,60776,Registrations
+FY2024,3W Goods,CNG,28881,Registrations
+FY2024,Cars,EV,99719,Registrations
+FY2024,Cars,Diesel,700828,Registrations
+FY2024,Cars,Petrol,2204186,Registrations
+FY2024,Bus,EV,3733,Registrations
+FY2024,Bus,Diesel,78361,Registrations
+FY2024,LGV (up to 7/5 tonnes),EV,4626,Registrations
+FY2024,LGV (up to 7/5 tonnes),Diesel,383532,Registrations
+FY2024,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2024,MGV (7.5-12 tonnes),Diesel,32566,Registrations
+FY2024,HGV (>12 tonnes),EV,276,Registrations
+FY2024,HGV (>12 tonnes),Diesel,248201,Registrations
+FY2024,Others,EV,246,Registrations
+FY2024,2W,Other,-40260,Registrations
+FY2024,3W Passenger,Other,368898,Registrations
+FY2024,3W Goods,Other,745,Registrations
+FY2024,Cars,Other,915427,Registrations
+FY2024,Bus,Other,9165,Registrations
+FY2024,LGV (up to 7/5 tonnes),Other,148089,Registrations
+FY2024,MGV (7.5-12 tonnes),Other,9446,Registrations
+FY2024,HGV (>12 tonnes),Other,10219,Registrations
+FY2024,Others,Other,1133618,Registrations
+FY2025,2W,EV,1209658,Registrations
+FY2025,2W,Petrol,17675236,Registrations
+FY2025,3W Passenger,EV,135266,Registrations
+FY2025,3W Passenger,Diesel,74204,Registrations
+FY2025,3W Passenger,Petrol/CNG,154,Registrations
+FY2025,3W Goods,EV,28044,Registrations
+FY2025,3W Goods,Diesel,64354,Registrations
+FY2025,3W Goods,CNG,31216,Registrations
+FY2025,Cars,EV,115315,Registrations
+FY2025,Cars,Diesel,745155,Registrations
+FY2025,Cars,Petrol,2106040,Registrations
+FY2025,Bus,EV,3393,Registrations
+FY2025,Bus,Diesel,93005,Registrations
+FY2025,LGV (up to 7/5 tonnes),EV,5617,Registrations
+FY2025,LGV (up to 7/5 tonnes),Diesel,443672,Registrations
+FY2025,MGV (7.5-12 tonnes),EV,0,Registrations
+FY2025,MGV (7.5-12 tonnes),Diesel,33892,Registrations
+FY2025,HGV (>12 tonnes),EV,127,Registrations
+FY2025,HGV (>12 tonnes),Diesel,226551,Registrations
+FY2025,Others,EV,376,Registrations
+FY2025,2W,Other,666933,Registrations
+FY2025,3W Passenger,Other,384657,Registrations
+FY2025,3W Goods,Other,6606,Registrations
+FY2025,Cars,Other,1304059,Registrations
+FY2025,Bus,Other,18144,Registrations
+FY2025,LGV (up to 7/5 tonnes),Other,78483,Registrations
+FY2025,MGV (7.5-12 tonnes),Other,5668,Registrations
+FY2025,HGV (>12 tonnes),Other,9313,Registrations
+FY2025,Others,Other,1117858,Registrations

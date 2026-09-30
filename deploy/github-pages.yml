@@ -1,0 +1,52 @@
+# GitHub Pages deploy for ev_dashboard_v2.
+# Copy this file to <repo root>/.github/workflows/ev-dashboard-v2-pages.yml, then in the repo's
+# Settings > Pages choose "GitHub Actions" as the source. The app lives in a sub-folder, so every
+# step runs with working-directory set to it. vite.config.ts uses base './', so the site works
+# from any Pages sub-path.
+name: Deploy ev_dashboard_v2 to GitHub Pages
+
+on:
+  push:
+    branches: [v2]
+    paths: ['College/ug3/Dashboard_IDV/ev_dashboard_v2/**']
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+defaults:
+  run:
+    working-directory: College/ug3/Dashboard_IDV/ev_dashboard_v2
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: College/ug3/Dashboard_IDV/ev_dashboard_v2/package-lock.json
+      - run: npm ci
+      - run: npm run data
+      - run: npm run contrast
+      - run: npm run build
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: College/ug3/Dashboard_IDV/ev_dashboard_v2/dist
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

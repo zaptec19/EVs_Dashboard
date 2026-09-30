@@ -1,0 +1,501 @@
+Date (date),State Name (state_name),State Code (state_code),RTO Name (office_name),RTO Code (office_code),Manufacturer (maker_company),Category (category),Registrations (registrations)
+"2021-03-01","Odisha","21","Sonepur Rto","OR31","Dwari Engg Works,Sambalpur","Maker",1
+"2023-09-01","Himachal Pradesh","02","Rla Chamba","HP48","Suzuki Motorcycle India Pvt Ltd","Maker",14
+"2019-09-01","Tamil Nadu","33","Hosur Rto","TN70","Toyota Kirloskar Motor Pvt Ltd","Maker",4
+"2024-03-01","Punjab","03","Sdm Rajpura","PB39","Classic Legends Pvt Ltd","Maker",1
+"2023-10-01","Chhattisgarh","22","Bilaspur Rto","CG10","Terra Motors India Pvt Ltd","Maker",7
+"2022-04-01","Kerala","32","Ranni Srto","KL62","Hero Motocorp Ltd","Maker",17
+"2023-11-01","Assam","18","Darrang","AS13","Tafe Limited","Maker",1
+"2021-09-01","Arunachal Pradesh","12","Namsai","AR20","Tata Motors Ltd","Maker",7
+"2020-04-01","Karnataka","29","Mangalore Rto","KA19","Honda Motorcycle And Scooter India (P) Ltd","Maker",15
+"2022-10-01","Assam","18","Sivasagar","AS4","Arrow Automotive","Maker",12
+"2020-07-01","Punjab","03","Sdm Sardulgarh","PB51","Kia India Private Limited","Maker",1
+"2021-11-01","Karnataka","29","Bellary Rto","KA34","Nissan Motor India Pvt Ltd","Maker",3
+"2023-08-01","Tamil Nadu","33","Tirunelveli Rto","TN72","Skoda Auto Volkswagen India Pvt Ltd","Maker",11
+"2021-04-01","Andhra Pradesh","28","Narasaraopet Rta","AP107","Eicher Motors Ltd","Maker",12
+"2022-07-01","Andhra Pradesh","28","Cuddapah Rta","AP4","Goreen E-Mobility Pvt Ltd","Maker",1
+"2020-08-01","Tamil Nadu","33","Valappadi Uo","TN613","Sharma-Sharma Engn Works","Maker",2
+"2019-12-01","Uttar Pradesh","09","Hapur","UP37","Honda Motorcycle And Scooter India (P) Ltd","Maker",272
+"2023-04-01","Tamil Nadu","33","Krishnagiri Rto","TN24","Klb Komaki Pvt Ltd","Maker",3
+"2023-06-01","Jammu And Kashmir","01","Poonch Arto","JK12","Tvs Motor Company Ltd","Maker",35
+"2022-10-01","Jammu And Kashmir","01","Bandipora Arto","JK15","Suzuki Motorcycle India Pvt Ltd","Maker",22
+"2020-02-01","Tamil Nadu","33","Uthamapalayam Uo","TN601","Volkswagen India Pvt Ltd","Maker",1
+"2019-09-01","Tamil Nadu","33","Alangudi Uo","TN641","Mahindra & Mahindra Limited (Tractor)","Maker",4
+"2020-07-01","Tamil Nadu","33","Erode Rto","TN33","Tata Motors Ltd","Maker",8
+"2019-05-01","West Bengal","19","Jalpaiguri Rto","WB71","Maruti Suzuki India Ltd","Maker",93
+"2022-03-01","Gujarat","24","Bardoli","GJ19","Hero Electric Vehicles Pvt. Ltd","Maker",25
+"2023-03-01","Tamil Nadu","33","Pollachi Rto","TN41","Hero Motocorp Ltd","Maker",73
+"2021-10-01","Kerala","32","Palai Srto","KL35","Klb Komaki Pvt Ltd","Maker",2
+"2021-10-01","Punjab","03","Rto Hoshiarpur","PB7","Lords Vehicle Mfg Pvt Ltd","Maker",1
+"2023-06-01","Karnataka","29","Ramdurga Arto","KA69","Tirth Agro Technology Pvt Ltd","Maker",1
+"2019-11-01","Jharkhand","20","Latehar","JH19","Mahindra & Mahindra Limited (Swaraj Division)","Maker",3
+"2021-03-01","Chhattisgarh","22","Kanker Dto","CG19","Continental Engines Pvt Ltd","Maker",1
+"2022-11-01","Tamil Nadu","33","Pudukottai Rto","TN55","Classic Legends Pvt Ltd","Maker",1
+"2021-03-01","Madhya Pradesh","23","Gwalior Rto","MP7","Toyota Kirloskar Motor Pvt Ltd","Maker",184
+"2019-09-01","Kerala","32","Aluva Srto","KL41","Skoda Auto India Pvt Ltd","Maker",1
+"2022-08-01","Madhya Pradesh","23","Raisen Dto","MP38","Gromax Agri Equipment Ltd","Maker",2
+"2023-05-01","Karnataka","29","Tiptur Arto","KA44","Nisiki Technologies Pvt Ltd","Maker",3
+"2023-06-01","Uttar Pradesh","09","Basti Rto","UP51","Tata Motors Passenger Vehicles Ltd","Maker",35
+"2020-07-01","Tamil Nadu","33","Thirumangalam Uo","TN598","Mahindra & Mahindra Limited (Tractor)","Maker",1
+"2023-12-01","Odisha","21","Phulbani Rto","OR12","Maruti Suzuki India Ltd","Maker",6
+"2022-06-01","Uttar Pradesh","09","Kaushambi","UP73","International Tractors Limited","Maker",2
+"2021-02-01","Rajasthan","08","Dudu Dto","RJ47","Mahindra & Mahindra Limited (Swaraj Division)","Maker",1
+"2022-02-01","Andhra Pradesh","28","Rta Kakinada","AP5","Bajaj Auto Ltd","Maker",519
+"2019-03-01","Gujarat","24","Ahmedabad","GJ1","Volvo Auto India Pvt Ltd","Maker",3
+"2022-03-01","Kerala","32","Kayamkulam Srto","KL29","Honda Motorcycle And Scooter India (P) Ltd","Maker",286
+"2021-04-01","Tamil Nadu","33","Mettupalayam Rto","TN40","Bajaj Auto Ltd","Maker",104
+"2019-02-01","Haryana","06","Sdm Badhra","HR88","Toyota Kirloskar Motor Pvt Ltd","Maker",1
+"2024-05-01","Gujarat","24","Morbi","GJ36","Kubota Agricultural Machinery India Pvt.Ltd.","Maker",2
+"2019-07-01","Karnataka","29","Tumkur Rto","KA6","Honda Cars India Ltd","Maker",5
+"2024-02-01","Tamil Nadu","33","Kancheepuram Rto","TN21","Booma Innovative Transport Sulutions Pvt Ltd","Maker",2
+"2023-09-01","Rajasthan","08","Bundi Dto","RJ8","Toyota Kirloskar Motor Pvt Ltd","Maker",4
+"2021-01-01","Tamil Nadu","33","Dharapuram Rto","TN594","Tata Motors Ltd","Maker",6
+"2023-08-01","Jharkhand","20","Ranchi","JH1","Ashok Leyland Ltd","Maker",9
+"2020-04-01","Andhra Pradesh","28","Cuddapah Rta","AP4","Tata Motors Ltd","Maker",1
+"2023-08-01","Gujarat","24","Banaskantha","GJ8","Indo Farm Equipment Limited","Maker",9
+"2020-11-01","Karnataka","29","Nelamangala Rto","KA52","Maruti Suzuki India Ltd","Maker",122
+"2019-05-01","Tamil Nadu","33","Nagapattinam Rto","TN51","Kubota Agricultural Machinery India Pvt.ltd.","Maker",1
+"2020-08-01","Chhattisgarh","22","Korba Dto","CG12","Renault India Pvt Ltd","Maker",13
+"2022-04-01","Karnataka","29","Kalaburagi Rto","KA32","Mg Motor India Pvt Ltd","Maker",4
+"2023-04-01","Andhra Pradesh","28","Nandyal Rta","AP121","Hyundai Motor India Ltd","Maker",12
+"2021-05-01","Uttar Pradesh","09","Orai","UP92","Ajax Engineering Pvt Ltd","Maker",1
+"2022-10-01","Kerala","32","Vandiperiyar Srto","KL37","Rgm Business Plus Pvt Ltd","Maker",1
+"2021-10-01","Haryana","06","Rta, Faridabad","HR38","Maruti Suzuki India Ltd","Maker",96
+"2020-08-01","West Bengal","19","Purba Burdwan Rto","WB41","Tafe Limited","Maker",9
+"2022-11-01","Punjab","03","Sdm Dera Bassi","PB70","Pca Automobiles India Pvt Ltd","Maker",1
+"2021-06-01","Himachal Pradesh","02","Rla Kumarsain","HP95","Renault India Pvt Ltd","Maker",1
+"2023-03-01","Bihar","10","Katihar","BR39","Kia India Private Limited","Maker",6
+"2021-11-01","Haryana","06","Sdm Badkhal","HR87","Royal-Enfield (Unit Of Eicher Ltd)","Maker",32
+"2022-03-01","Uttar Pradesh","09","Chandauli","UP67","Royal-Enfield (Unit Of Eicher Ltd)","Maker",48
+"2023-12-01","Bihar","10","Patna","BR1","Terra Motors India Pvt Ltd","Maker",29
+"2024-05-01","Uttar Pradesh","09","Siddharth Nagar(Naugarh)","UP55","Sirf India Vehicles Pvt Ltd","Maker",3
+"2022-12-01","Bihar","10","Supaul","BR50","Royal-Enfield (Unit Of Eicher Ltd)","Maker",47
+"2020-03-01","Tamil Nadu","33","Chennai (South) Rto","TN7","Mg Motor India Pvt Ltd","Maker",8
+"2022-09-01","West Bengal","19","Barrackpore Arto","WB23","Tata Motors Ltd","Maker",100
+"2022-07-01","Tamil Nadu","33","Redhills Rto","TN18","Hero Electric Vehicles Pvt. Ltd","Maker",10
+"2022-02-01","Rajasthan","08","Sawai Madhopur Dto","RJ25","Toyota Kirloskar Motor Pvt Ltd","Maker",1
+"2020-01-01","Jammu And Kashmir","01","Srinagar Rto","JK1","Ashok Leyland Ltd","Maker",11
+"2023-10-01","Uttar Pradesh","09","Gorakhpur Rto","UP53","Kinetic Green Energy & Power Solutions Ltd","Maker",2
+"2024-03-01","Maharashtra","27","Pen (Raigad)","MH6","Tata Motors Passenger Vehicles Ltd","Maker",44
+"2019-03-01","Maharashtra","27","Beed","MH23","Suzuki Motorcycle India Pvt Ltd","Maker",46
+"2022-10-01","Uttar Pradesh","09","Kaushambi","UP73","Royal-Enfield (Unit Of Eicher Ltd)","Maker",42
+"2021-06-01","Haryana","06","Sdm Sampla","HR95","Royal-Enfield (Unit Of Eicher Ltd)","Maker",8
+"2021-07-01","Uttar Pradesh","09","Orai","UP92","Kia India Private Limited","Maker",9
+"2022-12-01","Madhya Pradesh","23","Indore Rto","MP9","Kubota Agricultural Machinery India Pvt.Ltd.","Maker",11
+"2020-11-01","Maharashtra","27","Nandurbar","MH39","Maruti Suzuki India Ltd","Maker",82
+"2023-07-01","Uttarakhand","05","Haldwani Rto","UK4","Uma Motors","Maker",2
+"2023-05-01","Uttar Pradesh","09","Hardoi","UP30","Nissan Motor India Pvt Ltd","Maker",1
+"2019-06-01","Maharashtra","27","Latur","MH24","Renault India Pvt Ltd","Maker",2
+"2023-11-01","Uttar Pradesh","09","Ghaziabad","UP14","Force Motors Limited","Maker",10
+"2022-11-01","Uttar Pradesh","09","Ghazipur","UP61","Vijays Coolmax Private Limited","Maker",1
+"2023-05-01","Tamil Nadu","33","Ambasamuthiram Uo","TN611","John Deere India Pvt Ltd(Tractor Devision)","Maker",4
+"2023-03-01","Delhi","07","Rohini","DL11","Renault India Pvt Ltd","Maker",2
+"2020-05-01","Arunachal Pradesh","12","Itanagar Capital Region","AR1","Hero Motocorp Ltd","Maker",1
+"2024-02-01","Punjab","03","Rto Amritsar","PB2","N0Va Automotive Technologies Pvt. Ltd","Maker",9
+"2022-04-01","Kerala","32","Chittur Srto","KL70","Nissan Motor India Pvt Ltd","Maker",1
+"2021-01-01","Odisha","21","Cuttack Rto","OR5","Hyundai Motor India Ltd","Maker",115
+"2020-11-01","Haryana","06","Assandh","HR40","Mahindra & Mahindra Limited (Tractor)","Maker",4
+"2022-03-01","Karnataka","29","Hospet Rto","KA35","Suzuki Motorcycle India Pvt Ltd","Maker",72
+"2021-04-01","Tamil Nadu","33","Kulithali Uo","TN585","Hero Motocorp Ltd","Maker",166
+"2020-03-01","Tamil Nadu","33","Hosur Rto","TN70","M S Agro Industries","Maker",10
+"2023-06-01","Punjab","03","Sdm Abohar","PB15","Mahindra & Mahindra Limited","Maker",6
+"2023-10-01","Maharashtra","27","Jalgaon","MH19","Skoda Auto Volkswagen India Pvt Ltd","Maker",7
+"2022-05-01","Assam","18","Hojai","AS31","Mahindra & Mahindra Limited","Maker",13
+"2019-03-01","Rajasthan","08","Barmer Dto","RJ4","Piaggio Vehicles Pvt Ltd","Maker",4
+"2020-03-01","Madhya Pradesh","23","Sagar Rto","MP15","Standard Corporation India Ltd","Maker",1
+"2023-08-01","Haryana","06","Sdm Badli","HR89","India Yamaha Motor Pvt Ltd","Maker",1
+"2020-04-01","Punjab","03","Sdm Bhikhiwind","PB88","Fca India Automobiles Private Limited","Maker",94
+"2019-02-01","Andhra Pradesh","28","Rta Eluru","AP37","Others","Maker",803
+"2023-03-01","Uttar Pradesh","09","Bahraich","UP40","Mahindra & Mahindra Limited (Swaraj Division)","Maker",42
+"2023-02-01","Rajasthan","08","Sikar Vehicle Fitness Center","RJ212","Krishna Vehicals","Maker",33
+"2020-06-01","Arunachal Pradesh","12","Lower Siang","AR22","Nexzu Mobility Pvt Ltd","Maker",1
+"2021-11-01","Kerala","32","Guruvayur Srto","KL46","Ve Commercial Vehicles Ltd","Maker",2
+"2019-08-01","Kerala","32","Thirur Srto","KL55","Fiat India Automobiles Pvt Ltd","Maker",2
+"2020-06-01","Chhattisgarh","22","Raipur Rto","CG4","Honda Cars India Ltd","Maker",24
+"2024-05-01","Tamil Nadu","33","Gudiyatham Uo","TN514","Hero Motocorp Ltd","Maker",103
+"2020-11-01","Punjab","03","Sdm Phagwara","PB36","Tvs Motor Company Ltd","Maker",43
+"2022-05-01","Uttarakhand","05","Haridwar Arto","UK8","Suzuki Motorcycle India Pvt Ltd","Maker",40
+"2023-06-01","Karnataka","29","Raichur Rto","KA36","Traclaxx Tractors Pvt Ltd","Maker",1
+"2022-03-01","Rajasthan","08","M-S Nandan Fitness Testing Center","RJ204","Hop Motors Pvt Ltd","Maker",1
+"2023-02-01","Assam","18","Dhubri","AS17","India Yamaha Motor Pvt Ltd","Maker",58
+"2024-01-01","Uttar Pradesh","09","Bandarto","UP90","Tata Motors Passenger Vehicles Ltd","Maker",10
+"2020-01-01","Tamil Nadu","33","Erode Rto","TN33","Fca India Automobiles Private Limited","Maker",2
+"2020-02-01","West Bengal","19","Howrah Rto","WB11","Rsd Security Solutions Pvt Ltd","Maker",17
+"2022-12-01","Madhya Pradesh","23","Raisen Dto","MP38","Ve Commercial Vehicles Ltd","Maker",9
+"2023-05-01","Delhi","07","South Delhi","DL3","Saera Electric Auto Pvt Ltd","Maker",3
+"2021-01-01","Haryana","06","Gulha","HR9","Maruti Suzuki India Ltd","Maker",44
+"2020-01-01","Tamil Nadu","33","Sivakasi Rto","TN604","Skoda Auto India Pvt Ltd","Maker",1
+"2023-08-01","Kerala","32","Mallappally Srto","KL28","Honda Motorcycle And Scooter India (P) Ltd","Maker",91
+"2023-09-01","Tamil Nadu","33","Salem (South) Rto","TN90","Ajax Engineering Pvt Ltd","Maker",1
+"2020-01-01","Arunachal Pradesh","12","Lower Siang","AR22","Nrj Electric Motor Vehicles Pvt Ltd","Maker",58
+"2019-06-01","Gujarat","24","Bardoli","GJ19","Hero Motocorp Ltd","Maker",427
+"2020-10-01","Himachal Pradesh","02","Rla Haroli","HP80","Bajaj Auto Ltd","Maker",7
+"2021-06-01","Maharashtra","27","Pen (Raigad)","MH6","Ve Commercial Vehicles Ltd","Maker",2
+"2019-06-01","Tamil Nadu","33","Virudhachalam Uo","TN553","Same Deutz - Fahr India (P) Ltd.","Maker",2
+"2020-08-01","Tamil Nadu","33","Paramakudi Uo","TN603","Bajaj Auto Ltd","Maker",126
+"2020-10-01","Haryana","06","Bahadurgarh","HR13","Bmw India Pvt Ltd","Maker",2
+"2023-07-01","The Dadra And Nagar Haveli And Daman And Diu","38","Diu","DD2","Volvo Auto India Pvt Ltd","Maker",1
+"2020-07-01","Haryana","06","Hisar","HR20","Mahindra & Mahindra Limited","Maker",16
+"2020-09-01","Punjab","03","Sdm Samrala","PB43","New Golden Agriculture","Maker",1
+"2024-03-01","Tamil Nadu","33","Tiruchi(East) Rto","TN81","Mg Motor India Pvt Ltd","Maker",1
+"2021-12-01","Tamil Nadu","33","Madurantagam Uo","TN508","John Deere India Pvt Ltd(Tractor Devision)","Maker",11
+"2022-12-01","Bihar","10","Patna","BR1","Green Shuttle Technology Pvt Ltd","Maker",3
+"2019-05-01","Assam","18","Nagaon","AS2","Tata Motors Ltd","Maker",184
+"2022-09-01","Chhattisgarh","22","Bemetara Dto","CG25","Guru Nanak Agri Engg Works","Maker",1
+"2019-02-01","Odisha","21","Jagatsinghpur Rto","OR21","Ashok Leyland Ltd","Maker",15
+"2022-11-01","Andhra Pradesh","28","Rta Eluru","AP37","Piaggio Vehicles Pvt Ltd","Maker",20
+"2019-04-01","Gujarat","24","Jamnagar","GJ10","Adico Escorts Agri Equipments Pvt. Ltd.","Maker",1
+"2023-09-01","Haryana","06","Ferozepur Zirkha","HR28","Mahindra & Mahindra Limited","Maker",3
+"2019-01-01","Maharashtra","27","Dy.r.t.o.borivali","MH47","India Yamaha Motor Pvt Ltd","Maker",149
+"2022-11-01","Uttar Pradesh","09","Noida","UP16","Om Balajee Automobile ( India) Pvt. Ltd","Maker",14
+"2022-11-01","Himachal Pradesh","02","Rla Dharampur","HP86","Toyota Kirloskar Motor Pvt Ltd","Maker",1
+"2020-03-01","Andhra Pradesh","28","Markapur Uo","AP327","Gamzen Plast Pvt Ltd","Maker",2
+"2022-05-01","Kerala","32","Thalassery Srto","KL58","Pur Energy Pvt Ltd","Maker",3
+"2023-05-01","Assam","18","Morigaon","AS21","Hotage India","Maker",1
+"2022-09-01","Gujarat","24","Ahmedabad East","GJ27","Adico Escorts Agri Equipments Pvt. Ltd.","Maker",1
+"2023-01-01","Uttar Pradesh","09","Meerut Rto","UP15","E-Ashwa Automotive Pvt Ltd","Maker",2
+"2022-10-01","Uttar Pradesh","09","Raibareilly","UP33","Champion Poly Plast","Maker",8
+"2024-02-01","West Bengal","19","Kalna Arto","WB43","Ve Commercial Vehicles Ltd","Maker",2
+"2020-09-01","Tamil Nadu","33","Chennai (East) Rto","TN4","Grd Motors","Maker",129
+"2020-06-01","Karnataka","29","Haveri Rto","KA27","Force Motors Limited","Maker",1
+"2020-02-01","West Bengal","19","Behala Arto","WB9","India Yamaha Motor Pvt Ltd","Maker",15
+"2023-11-01","Tamil Nadu","33","Kangeyam Uo","TN593","Mahindra & Mahindra Limited (Tractor)","Maker",2
+"2022-06-01","West Bengal","19","Diamond Harbour Arto","WB97","Mahindra & Mahindra Limited (Tractor)","Maker",2
+"2019-01-01","Punjab","03","Mansa Sdm","PB31","International Tractors Limited","Maker",9
+"2020-11-01","Himachal Pradesh","02","Rla Bangana","HP78","Hyundai Motor India Ltd","Maker",20
+"2019-05-01","Gujarat","24","Kheda","GJ7","Honda Cars India Ltd","Maker",9
+"2021-03-01","Puducherry","34","Karaikal","PY2","Ford India Pvt Ltd","Maker",2
+"2020-11-01","Punjab","03","Sdm Bhikhiwind","PB88","Sathi Motors Electric Vehicle Pvt Ltd","Maker",43
+"2023-06-01","Uttar Pradesh","09","Orai","UP92","Kia India Private Limited","Maker",4
+"2024-04-01","Maharashtra","27","Jalana","MH21","Ivoomi Innovation Pvt Ltd","Maker",1
+"2024-03-01","Karnataka","29","Electronic City Rto","KA51","Royal-Enfield (Unit Of Eicher Ltd)","Maker",186
+"2022-05-01","Maharashtra","27","Bhandara","MH36","Mg Motor India Pvt Ltd","Maker",2
+"2021-07-01","Kerala","32","Nilambur Srto","KL71","Omega Seiki Pvt Ltd","Maker",55
+"2020-08-01","Uttar Pradesh","09","Jhansirto","UP93","Manku Agro Tech Pvt Ltd","Maker",1
+"2020-12-01","Karnataka","29","Dharwad West Rto","KA25","Eicher Tractors","Maker",4
+"2023-02-01","Tamil Nadu","33","Chennai (North) Rto","TN5","Okinawa Autotech Pvt Ltd","Maker",12
+"2022-09-01","Bihar","10","Muzaffarpur","BR6","India Yamaha Motor Pvt Ltd","Maker",79
+"2020-06-01","Madhya Pradesh","23","Betul Dto","MP48","Jessun Techno Pvt Ltd","Maker",2
+"2021-04-01","Assam","18","Tinsukia","AS23","Mahindra & Mahindra Limited","Maker",62
+"2019-09-01","Jharkhand","20","East Singhbhum (Jamshedpur)","JH5","Piaggio Vehicles Pvt Ltd","Maker",63
+"2020-11-01","Himachal Pradesh","02","Rla Shimla(Rural)","HP51","Hitech Engineering Ltd","Maker",7
+"2024-03-01","Assam","18","Morigaon","AS21","Hero Motocorp Ltd","Maker",173
+"2019-10-01","Bihar","10","Supaul","BR50","Mahindra & Mahindra Limited (Swaraj Division)","Maker",15
+"2021-10-01","Maharashtra","27","Sangli","MH10","Jaguar Land Rover India Limited","Maker",1
+"2020-12-01","Andhra Pradesh","28","Hindupur Rta","AP102","Pur Energy Pvt Ltd","Maker",171
+"2024-01-01","Delhi","07","Rajouri Garden","DL10","Skoda Auto Volkswagen India Pvt Ltd","Maker",165
+"2022-10-01","Haryana","06","Rta, Jind","HR56","Saera Electric Auto Pvt Ltd","Maker",1
+"2023-01-01","Gujarat","24","Junagadh","GJ11","Tvs Motor Company Ltd","Maker",32
+"2019-12-01","Uttar Pradesh","09","Raibareilly","UP33","Preet Agro Industries Pvt Ltd","Maker",1
+"2023-04-01","Rajasthan","08","Hanumangarh Dto","RJ31","Bajaj Auto Ltd","Maker",177
+"2019-07-01","Karnataka","29","Electronic City Rto","KA51","Eicher Tractors","Maker",8
+"2023-11-01","Tamil Nadu","33","Tiruvannamalai Rto","TN25","Klb Komaki Pvt Ltd","Maker",1
+"2019-02-01","Maharashtra","27","Kalyan","MH5","Ve Commercial Vehicles Ltd","Maker",20
+"2020-10-01","Andhra Pradesh","28","Vuyyuru Uo","AP516","Royal-Enfield (Unit Of Eicher Ltd)","Maker",1
+"2019-06-01","Haryana","06","Gurugram South","HR72","Escorts Limited (Agri Machinery Group)","Maker",9
+"2022-02-01","Tamil Nadu","33","Dharapuram Rto","TN594","Okinawa Autotech Pvt Ltd","Maker",1
+"2023-05-01","Gujarat","24","Lunavada","GJ35","Classic Legends Pvt Ltd","Maker",1
+"2021-05-01","Uttar Pradesh","09","Baghpat","UP17","Hyundai Motor India Ltd","Maker",12
+"2019-04-01","West Bengal","19","Jalpaiguri Rto","WB71","Nissan Motor India Pvt Ltd","Maker",1
+"2020-03-01","Goa","30","Margao Rto","GA8","Daimler India Commercial Vehicles Pvt. Ltd","Maker",5
+"2023-01-01","Punjab","03","Sdm Payal","PB55","Mahindra & Mahindra Limited","Maker",10
+"2019-12-01","Tamil Nadu","33","Tiruveranbur Uo","TN583","Tvs Motor Company Ltd","Maker",84
+"2021-02-01","Assam","18","Charaideo","AS33","Hyundai Motor India Ltd","Maker",3
+"2022-06-01","Andhra Pradesh","28","Vijayawada Rta","AP16","Okinawa Autotech Pvt Ltd","Maker",3
+"2023-06-01","Goa","30","Bicholim Rto","GA4","Mahindra & Mahindra Limited","Maker",3
+"2019-06-01","Maharashtra","27","Buldhana","MH28","Tafe Limited","Maker",5
+"2023-12-01","Uttarakhand","05","Pauri Rto","UK12","Hyundai Motor India Ltd","Maker",4
+"2023-12-01","Madhya Pradesh","23","Khandwa Arto","MP12","Cnh Industrial (India) Pvt Ltd","Maker",31
+"2021-05-01","Tamil Nadu","33","Aranthangi Uo","TN592","Tvs Motor Company Ltd","Maker",17
+"2023-05-01","Tamil Nadu","33","Mayiladuthurai Rto","TN589","Toyota Kirloskar Motor Pvt Ltd","Maker",9
+"2021-05-01","Rajasthan","08","M-S Nandan Fitness Testing Center","RJ204","Force Motors Limited","Maker",5
+"2021-05-01","Karnataka","29","Bagalkot Rto","KA29","Skoda Auto Volkswagen India Pvt Ltd","Maker",1
+"2020-07-01","Punjab","03","Rto Moga","PB29","Kubota Agricultural Machinery India Pvt.Ltd.","Maker",1
+"2021-02-01","Andhra Pradesh","28","Hindupur Rta","AP102","Tirupati Agro Industries","Maker",8
+"2024-01-01","Himachal Pradesh","02","Rto Dharamshala","HP68","Tata Motors Ltd","Maker",11
+"2020-08-01","Punjab","03","Sdm Bhikhiwind","PB88","Bull Machines Pvt Ltd","Maker",39
+"2021-04-01","Himachal Pradesh","02","Rla Balh","HP82","International Tractors Limited","Maker",2
+"2022-12-01","Karnataka","29","Bengaluru South Rto","KA5","Maruthisan Pvt Ltd","Maker",1
+"2023-11-01","Madhya Pradesh","23","Bhopal Rto","MP4","Jaguar Land Rover India Limited","Maker",2
+"2022-11-01","West Bengal","19","Siliguri Arto","WB73","Mahindra & Mahindra Limited","Maker",228
+"2022-02-01","Bihar","10","Supaul","BR50","Tata Motors Passenger Vehicles Ltd","Maker",7
+"2023-06-01","Uttar Pradesh","09","Hapur","UP37","Hyundai Motor India Ltd","Maker",41
+"2021-08-01","Rajasthan","08","M-S Nandan Fitness Testing Center","RJ204","Smv","Maker",4
+"2023-06-01","West Bengal","19","Kasba Arto","WB5","Bmw India Pvt Ltd","Maker",6
+"2021-08-01","Rajasthan","08","Beawar Dto","RJ36","Mahindra & Mahindra Limited (Tractor)","Maker",3
+"2020-12-01","Kerala","32","Kannur Rto","KL13","Tvs Motor Company Ltd","Maker",273
+"2021-09-01","Uttar Pradesh","09","Kanpur Dehat","UP77","Classic Legends Pvt Ltd","Maker",3
+"2019-06-01","Tamil Nadu","33","Tiruppur (North) Rto","TN39","Skoda Auto India Pvt Ltd","Maker",6
+"2022-11-01","Kerala","32","Varkala Srto","KL81","Honda Cars India Ltd","Maker",1
+"2019-01-01","Karnataka","29","Dandeli Arto","KA65","Bajaj Auto Ltd","Maker",64
+"2019-06-01","West Bengal","19","Birbhum Rto","WB53","John Deere India Pvt Ltd(Tractor Devision)","Maker",2
+"2023-09-01","Haryana","06","Sdm Gharaunda","HR91","International Tractors Limited","Maker",5
+"2023-04-01","Punjab","03","Sdm Phagwara","PB36","Toyota Kirloskar Motor Pvt Ltd","Maker",1
+"2019-07-01","Punjab","03","Sultanpur Sdm","PB41","Honda Motorcycle And Scooter India (P) Ltd","Maker",48
+"2019-01-01","West Bengal","19","Barasat Rto","WB25","Ok Play India Ltd","Maker",3
+"2024-04-01","Rajasthan","08","Jhalawar Dto","RJ17","Tvs Motor Company Ltd","Maker",157
+"2022-04-01","Tamil Nadu","33","Chennai (East) Rto","TN4","India Kawasaki Motors Pvt Ltd","Maker",1
+"2024-01-01","Madhya Pradesh","23","Tikamgarh Dto","MP36","Tata Motors Ltd","Maker",8
+"2021-05-01","Madhya Pradesh","23","Narsinghpur Dto","MP49","Ram Ji Engineering Works","Maker",1
+"2021-12-01","Uttar Pradesh","09","Gorakhpur Rto","UP53","Champion Poly Plast","Maker",34
+"2022-05-01","Arunachal Pradesh","12","Lower Siang","AR22","White Carbon Motors Pvt Ltd","Maker",5
+"2021-12-01","Gujarat","24","Aahwa","GJ30","Tvs Motor Company Ltd","Maker",1
+"2024-02-01","Kerala","32","Angamali Srto","KL63","Ather Energy Pvt Ltd","Maker",18
+"2024-02-01","Maharashtra","27","Wardha","MH32","Cnh Industrial (India) Pvt Ltd","Maker",1
+"2023-05-01","Madhya Pradesh","23","Chhindwara Arto","MP28","Honda Motorcycle And Scooter India (P) Ltd","Maker",469
+"2019-11-01","Kerala","32","Changanacherry Srto","KL33","Atul Auto Ltd","Maker",1
+"2022-10-01","Kerala","32","Nedumangadu Srto","KL21","Jiangsu Zheenaida (Importer: Klb Global)","Maker",2
+"2021-12-01","Haryana","06","Gulha","HR9","Hero Electric Vehicles Pvt. Ltd","Maker",6
+"2021-12-01","Chhattisgarh","22","Kondagaon Dto","CG27","Kubota Agricultural Machinery India Pvt.Ltd.","Maker",1
+"2023-02-01","Uttar Pradesh","09","Mathura","UP85","Shalya Auto Sales Pvt Ltd","Maker",3
+"2022-09-01","Kerala","32","Kottarakkara Srto","KL24","Klb Komaki Pvt Ltd","Maker",1
+"2020-03-01","Chhattisgarh","22","Raipur Rto","CG4","Mahindra Electric Mobility Limited","Maker",22
+"2021-09-01","Rajasthan","08","Jhalawar Dto","RJ17","Bajaj Auto Ltd","Maker",173
+"2022-03-01","Karnataka","29","Tiptur Arto","KA44","Piaggio Vehicles Pvt Ltd","Maker",3
+"2022-05-01","Maharashtra","27","Chandrapur","MH34","Ola Electric Technologies Pvt Ltd","Maker",27
+"2023-03-01","Tamil Nadu","33","Sirkali Uo","TN623","Mahindra & Mahindra Limited","Maker",9
+"2022-11-01","Kerala","32","Payyannur Srto","KL86","Ve Commercial Vehicles Ltd","Maker",1
+"2020-07-01","Haryana","06","Sdm Gharaunda","HR91","Suzuki Motorcycle India Pvt Ltd","Maker",3
+"2022-04-01","Uttar Pradesh","09","Saharanpur Rto","UP11","Maruti Suzuki India Ltd","Maker",190
+"2021-11-01","Karnataka","29","Bijapur Rto","KA28","Eicher Tractors","Maker",6
+"2019-07-01","Haryana","06","Rta, Rohtak","HR46","Victory Electric International","Maker",7
+"2021-02-01","Haryana","06","Sonepat","HR10","Mahindra & Mahindra Limited (Swaraj Division)","Maker",21
+"2022-01-01","Kerala","32","Perinthalmanna Srto","KL53","Tata Motors Ltd","Maker",29
+"2020-08-01","Delhi","07","Dwarka","DL9","Pragati Engineering","Maker",6
+"2019-05-01","Madhya Pradesh","23","Satna Arto","MP19","L & T Case Equipment Pvt Ltd","Maker",7
+"2019-08-01","Odisha","21","Dhenkanal Rto","OR6","Wirtgen India Pvt Ltd","Maker",3
+"2021-09-01","Odisha","21","Jajpur Rto","OR34","Nissan Motor India Pvt Ltd","Maker",1
+"2022-02-01","Maharashtra","27","Satara","MH11","Force Motors Limited","Maker",17
+"2022-08-01","Rajasthan","08","Kekri Dto","RJ48","International Tractors Limited","Maker",15
+"2023-06-01","Haryana","06","Rta, Ynr","HR58","Khalsa E-Vehicles Pvt Ltd","Maker",15
+"2021-11-01","Tamil Nadu","33","Tambaram Rto","TN513","Mercedes-Benz India Pvt Ltd","Maker",2
+"2022-05-01","Rajasthan","08","Barmer Dto","RJ4","Piaggio Vehicles Pvt Ltd","Maker",3
+"2022-12-01","Punjab","03","Sdm Rajpura","PB39","Mahindra & Mahindra Limited","Maker",22
+"2021-12-01","Haryana","06","Narwana","HR32","Tata Motors Ltd","Maker",5
+"2021-02-01","Uttarakhand","05","Haridwar Arto","UK8","Daksh Industries","Maker",3
+"2022-08-01","Uttar Pradesh","09","Bulandshahar","UP13","Unique International","Maker",1
+"2020-10-01","Punjab","03","Rto Sangrur","PB13","Honda Cars India Ltd","Maker",10
+"2023-12-01","Karnataka","29","Bengaluru West Rto","KA2","Exerval Pvt Ltd","Maker",1
+"2020-03-01","Tamil Nadu","33","Manaparai Uo","TN584","Okinawa Autotech Pvt Ltd","Maker",2
+"2024-03-01","Kerala","32","Kazhakuttom Srto","KL22","Ola Electric Technologies Pvt Ltd","Maker",24
+"2021-04-01","Tamil Nadu","33","Sholinganallur Rto","TN512","Hyundai Motor India Ltd","Maker",115
+"2021-10-01","Andhra Pradesh","28","Mandapeta Uo","AP405","Tvs Motor Company Ltd","Maker",39
+"2023-01-01","Odisha","21","Balasore Rto","OR1","Jcb India Limited","Maker",1
+"2022-06-01","Gujarat","24","Junagadh","GJ11","Honda Cars India Ltd","Maker",11
+"2021-02-01","Haryana","06","Sirsa","HR24","Kartar Agro Industries Pvt Ltd","Maker",2
+"2022-06-01","Odisha","21","Ganjam Rto","OR7","Maruti Suzuki India Ltd","Maker",68
+"2022-02-01","Tamil Nadu","33","Sivagangai Rto","TN63","Adris Electric Pvt Ltd","Maker",1
+"2020-01-01","Chhattisgarh","22","Rajnandgaon Arto","CG8","Honda Cars India Ltd","Maker",11
+"2021-01-01","Gujarat","24","Patan","GJ24","V.S.T. Tillers Tractors Limited","Maker",4
+"2022-02-01","Kerala","32","Nilambur Srto","KL71","M/S Srishti Automobiles","Maker",1
+"2023-08-01","Maharashtra","27","Nagpur (Rural)","MH40","Maruti Suzuki India Ltd","Maker",243
+"2019-05-01","Kerala","32","Perumbavur Srto","KL40","Mahindra & Mahindra Limited (Tractor)","Maker",1
+"2022-04-01","Jharkhand","20","Garhwa","JH14","Tata Motors Passenger Vehicles Ltd","Maker",1
+"2024-02-01","Odisha","21","Ganjam Rto","OR7","Atul Auto Ltd","Maker",1
+"2020-02-01","Bihar","10","Aurangabad","BR26","Tvs Motor Company Ltd","Maker",240
+"2020-11-01","Tamil Nadu","33","Dindigul Rto","TN57","Toyota Kirloskar Motor Pvt Ltd","Maker",4
+"2021-08-01","Jharkhand","20","Dto Office Dumka","JH4","International Tractors Limited","Maker",16
+"2022-06-01","Himachal Pradesh","02","Rla Bilaspur","HP24","Ola Electric Technologies Pvt Ltd","Maker",1
+"2021-03-01","Tamil Nadu","33","Tiruvallur Rto","TN20","Ashok Leyland Ltd","Maker",15
+"2022-07-01","Karnataka","29","K G F Arto","KA8","Hero Motocorp Ltd","Maker",108
+"2023-01-01","Karnataka","29","Krishnarajapuram Rto","KA53","Hero Motocorp Ltd","Maker",319
+"2023-11-01","Uttar Pradesh","09","Ballia","UP60","Honda Motorcycle And Scooter India (P) Ltd","Maker",329
+"2023-04-01","Uttar Pradesh","09","Noida","UP16","Toyota Kirloskar Motor Pvt Ltd","Maker",226
+"2022-04-01","Jammu And Kashmir","01","Samba Arto","JK21","India Yamaha Motor Pvt Ltd","Maker",11
+"2020-11-01","Gujarat","24","Kachchh","GJ12","Volvo Auto India Pvt Ltd","Maker",1
+"2019-08-01","Tamil Nadu","33","Harur Uo","TN527","Mahindra & Mahindra Limited (Tractor)","Maker",14
+"2019-04-01","Odisha","21","Bargarh Rto","OR17","Jcb India Limited","Maker",3
+"2022-06-01","Kerala","32","Chengannur Srto","KL30","Honda Motorcycle And Scooter India (P) Ltd","Maker",166
+"2020-12-01","West Bengal","19","Howrah Rto","WB11","Sharma-Sharma Engn Works","Maker",2
+"2024-02-01","Gujarat","24","Chhotaudaipur","GJ34","Tvs Motor Company Ltd","Maker",37
+"2019-04-01","Uttar Pradesh","09","Transport Nagar Rto Lucknow (Up32)","UP32","J. S. Auto (P) Ltd","Maker",2
+"2024-03-01","Kerala","32","Idukki Rto","KL6","India Yamaha Motor Pvt Ltd","Maker",34
+"2024-05-01","West Bengal","19","Baruipur Arto","WB95","Renault India Pvt Ltd","Maker",3
+"2022-06-01","Haryana","06","Ganaur","HR42","Hyundai Motor India Ltd","Maker",34
+"2019-12-01","Jammu And Kashmir","01","Ganderbal Arto","JK16","Hyundai Motor India Ltd","Maker",3
+"2023-02-01","Madhya Pradesh","23","Gwalior Rto","MP7","Amo Mobility Solutions Pvt Ltd","Maker",28
+"2021-11-01","Haryana","06","Fatehabad","HR22","Eicher Tractors","Maker",9
+"2023-06-01","Rajasthan","08","Dholpur Dto","RJ11","Toyota Kirloskar Motor Pvt Ltd","Maker",1
+"2022-06-01","Karnataka","29","Bengaluru West Rto","KA2","Nissan Motor India Pvt Ltd","Maker",4
+"2020-08-01","Uttar Pradesh","09","Sultanpur","UP44","M/S Shriram Auto Tech Pvt Ltd","Maker",1
+"2021-11-01","Assam","18","Nalbari","AS14","Two Friends Auto Electric Co","Maker",1
+"2020-01-01","Andhra Pradesh","28","Tirupati Rta","AP103","Skoda Auto India Pvt Ltd","Maker",1
+"2024-03-01","Maharashtra","27","Parbhani","MH22","Eicher Tractors","Maker",2
+"2020-11-01","Assam","18","Kamrup(Rural)","AS25","Supereco Automotive Co","Maker",4
+"2019-06-01","Punjab","03","Malerkotla Sdm","PB28","Royal-Enfield (Unit Of Eicher Ltd)","Maker",20
+"2023-05-01","Punjab","03","Rto Sangrur","PB13","Kartar Agro Industries Pvt Ltd","Maker",1
+"2023-08-01","Karnataka","29","Bengaluru North Rto","KA4","Piaggio Vehicles Pvt Ltd","Maker",49
+"2020-03-01","Andhra Pradesh","28","Vijayawada Rta","AP16",""Volvo Group India Pvt Ltd"","Maker",9
+"2020-02-01","Uttar Pradesh","09","Prayagraj Rto","UP70","Two Friends Auto Electric Co","Maker",9
+"2020-09-01","Maharashtra","27","Akola","MH30","Mahindra & Mahindra Limited (Tractor)","Maker",24
+"2021-12-01","Uttar Pradesh","09","Pratapgarh","UP72","Duke Auto India","Maker",1
+"2023-08-01","West Bengal","19","Uttar Dinajpur Rto","WB59","Mahindra & Mahindra Limited (Swaraj Division)","Maker",47
+"2023-05-01","Uttar Pradesh","09","Akbarpur(Ambedkar Nagar)","UP45","Kia India Private Limited","Maker",4
+"2019-07-01","Haryana","06","Sdm Kharkhonda","HR79","Mahindra & Mahindra Limited (Tractor)","Maker",3
+"2023-12-01","Kerala","32","Mattancherry Srto","KL43","India Yamaha Motor Pvt Ltd","Maker",78
+"2024-04-01","Kerala","32","Devikulam Srto","KL68","Honda Motorcycle And Scooter India (P) Ltd","Maker",56
+"2020-06-01","Himachal Pradesh","02","Rla Nurpur","HP38","Hyundai Motor India Ltd","Maker",21
+"2022-03-01","Assam","18","Barpeta","AS15","Maruti Suzuki India Ltd","Maker",79
+"2020-10-01","Kerala","32","Nilambur Srto","KL71","Krishna Vehicals","Maker",1
+"2022-04-01","Karnataka","29","Chamarajanagar Rto","KA10","John Deere India Pvt Ltd(Tractor Devision)","Maker",25
+"2022-01-01","Haryana","06","Faridabad","HR51","International Tractors Limited","Maker",15
+"2023-05-01","Rajasthan","08","Chomu Dto","RJ41","Ather Energy Pvt Ltd","Maker",1
+"2024-05-01","Rajasthan","08","Sikar Vehicle Fitness Center","RJ212","Mytrah Mobility Pvt Ltd","Maker",6
+"2024-01-01","Uttar Pradesh","09","Basti Rto","UP51","Force Motors Limited","Maker",1
+"2023-04-01","Maharashtra","27","Dharashiv","MH25","International Tractors Limited","Maker",34
+"2019-04-01","Himachal Pradesh","02","Rla Una","HP20","Royal-Enfield (Unit Of Eicher Ltd)","Maker",7
+"2023-08-01","Tamil Nadu","33","Madurai (South) Rto","TN58","Bajaj Auto Ltd","Maker",137
+"2022-01-01","Tamil Nadu","33","Madurantagam Uo","TN508","Mahindra & Mahindra Limited (Tractor)","Maker",11
+"2022-02-01","Tamil Nadu","33","Coimbatore (North) Rto","TN38","Nissan Motor India Pvt Ltd","Maker",8
+"2023-06-01","Bihar","10","Gopalganj","BR28","Tata Motors Passenger Vehicles Ltd","Maker",16
+"2021-12-01","Tamil Nadu","33","Perambalur Rto","TN46","Honda Motorcycle And Scooter India (P) Ltd","Maker",78
+"2019-03-01","Tamil Nadu","33","Ambattur Rto","TN612","Okinawa Autotech Pvt Ltd","Maker",1
+"2022-09-01","Jharkhand","20","Bokaro","JH9","Mahindra & Mahindra Limited (Tractor)","Maker",4
+"2024-04-01","Bihar","10","Gopalganj","BR28","Preet Agro Industries Pvt Ltd","Maker",2
+"2021-12-01","Jammu And Kashmir","01","Poonch Arto","JK12","Suzuki Motorcycle India Pvt Ltd","Maker",12
+"2019-07-01","Uttar Pradesh","09","Kanpur Nagar","UP78","Maa Shakti Exim Pvt Ltd","Maker",5
+"2021-07-01","Maharashtra","27","Akluj","MH45","Cnh Industrial (India) Pvt Ltd","Maker",7
+"2024-02-01","Madhya Pradesh","23","Satna Arto","MP19","B24 Roket Ev","Maker",1
+"2022-02-01","Chhattisgarh","22","Bilaspur Rto","CG10","Ashok Leyland Ltd","Maker",9
+"2019-07-01","Kerala","32","Chittur Srto","KL70","Toyota Kirloskar Motor Pvt Ltd","Maker",5
+"2023-04-01","Himachal Pradesh","02","Rla Jawali","HP54","Honda Motorcycle And Scooter India (P) Ltd","Maker",34
+"2020-02-01","Punjab","03","Rto Sahibzada Ajit Singh Nagar","PB65","Okinawa Autotech Pvt Ltd","Maker",1
+"2020-05-01","Tamil Nadu","33","Tiruchi(East) Rto","TN81","Bajaj Auto Ltd","Maker",8
+"2020-07-01","Jammu And Kashmir","01","Baramulla Arto","JK5","Tvs Motor Company Ltd","Maker",37
+"2021-11-01","Tamil Nadu","33","Palani Rto","TN597","Tvs Motor Company Ltd","Maker",122
+"2020-11-01","Uttarakhand","05","Udham Singh Nagar Arto","UK6","Daimler India Commercial Vehicles Pvt. Ltd","Maker",1
+"2023-03-01","West Bengal","19","Chanchol Arto","WB83","Mahindra & Mahindra Limited (Swaraj Division)","Maker",8
+"2022-01-01","Odisha","21","Bolangir Rto","OR3","Renault India Pvt Ltd","Maker",5
+"2023-12-01","Chhattisgarh","22","Jagdalpur Rto","CG17","Mg Motor India Pvt Ltd","Maker",1
+"2024-04-01","West Bengal","19","Pvd Kolkata","WB1","Ashok Leyland Ltd","Maker",6
+"2022-06-01","Kerala","32","Kottarakkara Srto","KL24","Nissan Motor India Pvt Ltd","Maker",1
+"2020-03-01","Bihar","10","Supaul","BR50","Saera Electric Auto Pvt Ltd","Maker",4
+"2023-10-01","Rajasthan","08","Sikar Rto","RJ23","Honda Cars India Ltd","Maker",1
+"2023-06-01","Punjab","03","Rto Ferozpur","PB5","Jiwan Agricultural Implements Workshop Cis Ltd","Maker",1
+"2021-10-01","Assam","18","Tinsukia","AS23","Terra Motors India Pvt Ltd","Maker",6
+"2019-04-01","Bihar","10","Khagaria","BR34","Jcb India Limited","Maker",2
+"2022-05-01","Tamil Nadu","33","Rto Chennai (North West)","TN2","Bmw India Pvt Ltd","Maker",4
+"2019-02-01","Chhattisgarh","22","Durg Rto","CG7","Daimler India Commercial Vehicles Pvt. Ltd","Maker",3
+"2023-04-01","Punjab","03","Rto Ludhiana","PB10","L&T Construction Equipment Limited","Maker",1
+"2023-01-01","Uttarakhand","05","Haridwar Arto","UK8","Maruti Suzuki India Ltd","Maker",180
+"2020-01-01","Rajasthan","08","Jagatpura, Jaipur Arto","RJ141","Aadhya Enterprises","Maker",2
+"2024-03-01","Karnataka","29","Bengaluru Central Rto","KA1","Classic Legends Pvt Ltd","Maker",28
+"2024-05-01","Kerala","32","Nedumangadu Srto","KL21","Honda Motorcycle And Scooter India (P) Ltd","Maker",206
+"2019-05-01","Karnataka","29","Gokak Arto","KA49","John Deere India Pvt Ltd(Tractor Devision)","Maker",3
+"2021-06-01","Madhya Pradesh","23","Ujjain Rto","MP13","Jcb India Ltd","Maker",3
+"2020-02-01","Odisha","21","Balasore Rto","OR1","Tata Motors Ltd","Maker",53
+"2020-11-01","Rajasthan","08","Churu Dto","RJ10","Mahindra & Mahindra Limited (Tractor)","Maker",34
+"2022-05-01","Uttar Pradesh","09","Fathehpur","UP71","Escorts Kubota Limited (Construction Equipment)","Maker",2
+"2023-05-01","Jharkhand","20","East Singhbhum (Jamshedpur)","JH5","Pur Energy Pvt Ltd","Maker",1
+"2022-02-01","Haryana","06","Safidon","HR33","Kia India Private Limited","Maker",6
+"2020-09-01","Arunachal Pradesh","12","Lower Siang","AR22","Tejasgreen Automotive Pvt Ltd","Maker",3
+"2019-11-01","Maharashtra","27","Mumbai (East)","MH3","Adishwar Auto Ride India Pvt Ltd","Maker",3
+"2024-05-01","Jharkhand","20","Garhwa","JH14","Mahindra & Mahindra Limited","Maker",4
+"2019-09-01","Andhra Pradesh","28","Jangareddy Gudem Uo","AP237","Hyundai Motor India Ltd","Maker",7
+"2020-06-01","Himachal Pradesh","02","Rla Shimla(Rural)","HP51","Prakash Metal","Maker",4
+"2022-09-01","Uttar Pradesh","09","Raibareilly","UP33","Tata Motors Passenger Vehicles Ltd","Maker",11
+"2022-07-01","Punjab","03","Sdm Moonak","PB64","Royal-Enfield (Unit Of Eicher Ltd)","Maker",5
+"2020-11-01","Odisha","21","Bargarh Rto","OR17","Samaleswari Engg Works","Maker",1
+"2022-05-01","Haryana","06","Sirsa","HR24","Honda Cars India Ltd","Maker",3
+"2023-05-01","Tamil Nadu","33","Lalkudi Uo","TN631","Mahindra & Mahindra Limited","Maker",4
+"2023-07-01","Uttar Pradesh","09","Jaunpur","UP62","Nrj Electric Motor Vehicles Pvt Ltd","Maker",1
+"2022-05-01","Tamil Nadu","33","Sirkali Uo","TN623","Hyundai Motor India Ltd","Maker",2
+"2021-04-01","Rajasthan","08","Jaipur (First) Rto","RJ14","Tata Motors Ltd","Maker",275
+"2022-04-01","Tamil Nadu","33","Erode Rto","TN33","Mercedes -Benz Ag","Maker",1
+"2022-12-01","Madhya Pradesh","23","Agar Malwa Rto","MP70","Eicher Tractors","Maker",68
+"2021-07-01","Haryana","06","Sirsa","HR24","Tafe Limited","Maker",1
+"2021-02-01","Uttar Pradesh","09","Azamgarh Rto","UP50","Classic Legends Pvt Ltd","Maker",1
+"2023-02-01","Maharashtra","27","Akola","MH30","John Deere India Pvt Ltd(Tractor Devision)","Maker",25
+"2023-04-01","Gujarat","24","Banaskantha","GJ8","Bajaj Auto Ltd","Maker",523
+"2022-07-01","Uttar Pradesh","09","Jhansirto","UP93","Okinawa Autotech Pvt Ltd","Maker",33
+"2020-10-01","West Bengal","19","Haldia Arto","WB32","Ford India Pvt Ltd","Maker",1
+"2019-02-01","Haryana","06","Hathin","HR52","Bajaj Auto Ltd","Maker",38
+"2024-04-01","Punjab","03","Sdm Jagraon","PB25","Hero Motocorp Ltd","Maker",63
+"2022-08-01","West Bengal","19","Contai Arto","WB31","Mahindra & Mahindra Limited (Swaraj Division)","Maker",1
+"2022-07-01","Karnataka","29","Tiptur Arto","KA44","Tvs Motor Company Ltd","Maker",103
+"2021-08-01","Tamil Nadu","33","Tiruppur (South) Rto","TN42","Mew Electricals Limited","Maker",3
+"2022-06-01","Haryana","06","Bahadurgarh","HR13","Escorts Kubota Limited (Agri Machinery Group)","Maker",15
+"2023-07-01","Andhra Pradesh","28","Rayachoti Mvi Office","AP504","Skoda Auto Volkswagen India Pvt Ltd","Maker",2
+"2022-11-01","Meghalaya","17","Tura","ML8","Tvs Motor Company Ltd","Maker",143
+"2024-01-01","Uttar Pradesh","09","Kannauj","UP74","Renault India Pvt Ltd","Maker",5
+"2020-02-01","Haryana","06","Hisar","HR20","Kubota Agricultural Machinery India Pvt.Ltd.","Maker",8
+"2022-06-01","Rajasthan","08","Bikaner Rto","RJ7","Maruti Suzuki India Ltd","Maker",168
+"2023-10-01","Assam","18","Nagaon","AS2","Two Friends Auto Electric Co","Maker",1
+"2020-06-01","Gujarat","24","Anand","GJ23","Tafe Limited","Maker",15
+"2019-10-01","Gujarat","24","Bharuch","GJ16","Mg Motor India Pvt Ltd","Maker",4
+"2022-12-01","Tripura","16","West Tripura Jtc","TR1","Mahindra & Mahindra Limited","Maker",69
+"2022-03-01","Tamil Nadu","33","Vellore Rto","TN23","Honda Motorcycle And Scooter India (P) Ltd","Maker",318
+"2021-12-01","Tamil Nadu","33","Avinashi Uo","TN580","Sml Isuzu Ltd","Maker",2
+"2020-01-01","Tamil Nadu","33","Krishnagiri Rto","TN24","Volkswagen India Pvt Ltd","Maker",1
+"2019-12-01","Bihar","10","Bhabhua","BR45","Eicher Tractors","Maker",7
+"2023-01-01","Maharashtra","27","Malegaon","MH41","Ola Electric Technologies Pvt Ltd","Maker",25
+"2020-02-01","Uttar Pradesh","09","Unnao","UP35","Bajaj Auto Ltd","Maker",427
+"2022-07-01","Madhya Pradesh","23","Vidisha Dto","MP40","Bajaj Auto Ltd","Maker",105
+"2022-01-01","Gujarat","24","Panchmahal","GJ17","Honda Cars India Ltd","Maker",1
+"2023-02-01","Andhra Pradesh","28","Hindupur Rta","AP102","Mahindra & Mahindra Limited","Maker",59
+"2020-01-01","Himachal Pradesh","02","Rla Shimla(Rural)","HP51","Shivshakti Steel Industries Latur","Maker",7
+"2023-09-01","Himachal Pradesh","02","Rla Haroli","HP80","International Tractors Limited","Maker",1
+"2023-03-01","Rajasthan","08","Nagaur Dto","RJ21","Tvs Motor Company Ltd","Maker",135
+"2023-01-01","Kerala","32","Perumbavur Srto","KL40","Tata Motors Passenger Vehicles Ltd","Maker",23
+"2019-01-01","Uttar Pradesh","09","Saharanpur Rto","UP11","Om Balajee Automobile ( India) Pvt. Ltd","Maker",1
+"2022-05-01","Andhra Pradesh","28","Narasaraopet Rta","AP107","Pmi Electro Mobility Solutions Private Limited","Maker",47
+"2021-12-01","Kerala","32","Kanhangad Srto","KL60","Kerala Automobiles Limited","Maker",1
+"2022-10-01","Jharkhand","20","Simdega","JH20","Tata Motors Ltd","Maker",1
+"2023-01-01","Maharashtra","27","Dy Regional Transport Office, Hingoli","MH38","Jayadri Steel Industries","Maker",1
+"2020-08-01","Tamil Nadu","33","Salem (South) Rto","TN90","Renault India Pvt Ltd","Maker",4
+"2019-06-01","Bihar","10","Patna","BR1","Mahindra Reva Electric Vehicles Pvt Ltd","Maker",1
+"2021-02-01","Tamil Nadu","33","Thanjavur Rto","TN49","Daimler India Commercial Vehicles Pvt. Ltd","Maker",1
+"2022-03-01","Haryana","06","Rta Ambala","HR37","Isuzu Motors India Pvt Ltd","Maker",1
+"2019-08-01","Himachal Pradesh","02","Rto Mandi","HP65","Ashok Leyland Ltd","Maker",4
+"2021-01-01","Chandigarh","04","Chandigarh Ut (Rla And Sta)","CH1","Ford India Pvt Ltd","Maker",23
+"2021-07-01","Himachal Pradesh","02","Rla Sarkaghat","HP28","Skoda Auto Volkswagen India Pvt Ltd","Maker",1
+"2022-02-01","Odisha","21","Mayurbhanj Rto","OR11","Escorts Kubota Limited (Agri Machinery Group)","Maker",3
+"2024-04-01","Maharashtra","27","Mumbai (East)","MH3","Pca Automobiles India Pvt Ltd","Maker",25
+"2020-11-01","Andhra Pradesh","28","Hindupur Rta","AP102","Ssb Indistries","Maker",43
+"2022-05-01","Gujarat","24","Morbi","GJ36","Ola Electric Technologies Pvt Ltd","Maker",10
+"2023-08-01","Uttar Pradesh","09","Agra Rto","UP80","Yc Electric Vehicle","Maker",23
+"2020-08-01","Gujarat","24","Jamnagar","GJ10","Adico Escorts Agri Equipments Pvt. Ltd.","Maker",51
+"2022-04-01","Kerala","32","Kayamkulam Srto","KL29","Mahindra & Mahindra Limited","Maker",15
+"2020-08-01","Tamil Nadu","33","Pudukottai Rto","TN55","Renault India Pvt Ltd","Maker",3
+"2022-09-01","Uttar Pradesh","09","Bulandshahar","UP13","Lectrix Ev Pvt Ltd","Maker",3
+"2019-12-01","Haryana","06","Naraingarh","HR4","Bajaj Auto Ltd","Maker",158
+"2022-09-01","Odisha","21","Kendrapara Rto","OR29","Hero Motocorp Ltd","Maker",145
+"2021-11-01","Kerala","32","Nilambur Srto","KL71","Star Bull E Motors","Maker",56
+"2023-07-01","Rajasthan","08","Khetri Dto","RJ53","Mahindra & Mahindra Limited","Maker",20
+"2022-09-01","Karnataka","29","Sagar Arto","KA15","Hyundai Motor India Ltd","Maker",29
+"2019-12-01","Andhra Pradesh","28","Hindupur Rta","AP102","Volkswagen India Pvt Ltd","Maker",2
+"2023-06-01","Maharashtra","27","Jalana","MH21","Cnh Industrial (India) Pvt Ltd","Maker",5
+"2020-08-01","Tamil Nadu","33","Alangulam Uo","TN644","Mahindra & Mahindra Limited","Maker",1
+"2024-02-01","Goa","30","Mapusa Rto","GA3","Hyundai Motor India Ltd","Maker",65
+"2021-03-01","Bihar","10","Patna","BR1","Okinawa Autotech Pvt Ltd","Maker",5
+"2022-04-01","Rajasthan","08","Phalodi Dto","RJ43","Honda Cars India Ltd","Maker",1
+"2022-09-01","Rajasthan","08","Pali Rto","RJ22","Action Construction Equipment Ltd.","Maker",2
+"2019-04-01","Chhattisgarh","22","Gariyaband Dto","CG23","Eicher Tractors","Maker",28
+"2023-03-01","Kerala","32","Wadakkancherry Srto","KL48","Pca Automobiles India Pvt Ltd","Maker",1
+"2023-09-01","Jharkhand","20","East Singhbhum (Jamshedpur)","JH5","Quantum Energy Ltd.","Maker",20
+"2024-02-01","Nagaland","13","Mokokchung Rto","NL2","Maruti Suzuki India Ltd","Maker",15
+"2021-11-01","Tripura","16","West Tripura Jtc","TR1","Kotkar Energy Dynamics Pvt Ltd","Maker",1
+"2020-10-01","Tamil Nadu","33","Tiruppur (South) Rto","TN42","Mahindra & Mahindra Limited","Maker",16
+"2023-03-01","Uttar Pradesh","09","Sultanpur","UP44","Kia India Private Limited","Maker",1
+"2020-02-01","Sikkim","11","Soreng","SK6","Maruti Suzuki India Ltd","Maker",20
+"2023-09-01","Jharkhand","20","Latehar","JH19","Honda Motorcycle And Scooter India (P) Ltd","Maker",106
+"2023-01-01","Punjab","03","Sdm Batala","PB18","Hyundai Motor India Ltd","Maker",41
+"2022-09-01","Punjab","03","Sdm Abohar","PB15","International Tractors Limited","Maker",1
+"2022-03-01","Madhya Pradesh","23","Sidhi Dto","MP53","New Holland Fiat India Pvt. Ltd.","Maker",2
+"2021-11-01","Andhra Pradesh","28","Narasaraopet Rta","AP107","Guru Ji Wheels","Maker",9
+"2019-11-01","Rajasthan","08","Nagaur Dto","RJ21","Maruti Suzuki India Ltd","Maker",148
+"2022-05-01","Tamil Nadu","33","Krishnagiri Rto","TN24","Renault India Pvt Ltd","Maker",5
+"2019-04-01","Uttar Pradesh","09","Gorakhpur Rto","UP53","India Kawasaki Motors Pvt Ltd","Maker",1
+"2023-02-01","Delhi","07","Rohini","DL11","Yc Electric Vehicle","Maker",62
+"2023-04-01","Madhya Pradesh","23","Seoni Arto","MP22","John Deere India Pvt Ltd(Tractor Devision)","Maker",8
+"2020-07-01","Chhattisgarh","22","Bilaspur Rto","CG10","Bmw India Pvt Ltd","Maker",1
+"2019-06-01","Arunachal Pradesh","12","Lohit","AR11","Renault India Pvt Ltd","Maker",1
+"2023-12-01","Maharashtra","27","Ahemednagar","MH16","Fca India Automobiles Private Limited","Maker",1
+"2022-12-01","Uttar Pradesh","09","Mainpuri","UP84","Escorts Kubota Limited (Construction Equipment)","Maker",1
+"2020-04-01","Maharashtra","27","Mumbai (West)","MH2","Ferrari Spa","Maker",1
+"2022-03-01","Bihar","10","Nawada","BR27","Supereco Automotive Co","Maker",1
+"2020-08-01","Tamil Nadu","33","Chennai (East) Rto","TN4","Hira Agro Industries","Maker",2
+"2022-04-01","Jammu And Kashmir","01","Kupwara Arto","JK9","Royal-Enfield (Unit Of Eicher Ltd)","Maker",3
+"2024-01-01","Karnataka","29","Bagalkot Rto","KA29","Quantum Energy Ltd.","Maker",3
+"2020-12-01","Tamil Nadu","33","Hosur Rto","TN70","Classic Legends Pvt Ltd","Maker",2900
+"2023-05-01","Arunachal Pradesh","12","Lower Siang","AR22","Lawat Motors Llp","Maker",53

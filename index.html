@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="en-IN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>EV Charging Site-Planning Dashboard</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <!-- fonts load without blocking first paint (display=swap already shows the fallback meanwhile) -->
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&family=IBM+Plex+Sans:wght@300;400;600&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&family=IBM+Plex+Sans:wght@300;400;600&display=swap" media="print" onload="this.media='all'" />
+    <noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400&family=IBM+Plex+Sans:wght@300;400;600&display=swap" /></noscript>
+    <!-- the three largest data files start downloading with the JS instead of after it (same URLs and credentials as loadDataset's fetch) -->
+    <link rel="preload" as="fetch" href="./data/india_states.json" crossorigin fetchpriority="low" />
+    <link rel="preload" as="fetch" href="./data/rto.json" crossorigin fetchpriority="low" />
+    <link rel="preload" as="fetch" href="./data/state_month.json" crossorigin fetchpriority="low" />
+    <meta name="description" content="Where is EV demand outrunning public charging in India, and what kind of charging does that demand need?" />
+    <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='%230f62fe' stroke-width='2.2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M13 2 3 14h9l-1 8 10-12h-9l1-8z'/%3E%3C/svg%3E" />
+    <script>
+      // Set the theme before first paint so there is no flash of the wrong theme.
+      (function () {
+        var t = null;
+        try { t = localStorage.getItem('evdash-theme'); } catch (e) {}
+        if (t !== 'light' && t !== 'dark') {
+          t = window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+        }
+        document.documentElement.setAttribute('data-theme', t);
+      })();
+    </script>
+  </head>
+  <body>
+    <!-- static first paint: the same header markup React renders, so the title shows before the JS arrives
+         and React replaces it in place (text mirrors header.title / header.subtitle in src/content.ts) -->
+    <div id="root">
+      <div class="page" aria-busy="true">
+        <header class="appbar"><span class="appbar-name" aria-hidden="true">EV Charging Site-Planning Dashboard</span></header>
+        <div class="titleblock">
+          <h1>EV Charging Site-Planning Dashboard</h1>
+          <p>Where is EV demand outrunning public charging in India, and what kind of charging does that demand need?</p>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

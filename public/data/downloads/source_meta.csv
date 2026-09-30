@@ -1,0 +1,18 @@
+key,value
+granular_from,2019-01
+granular_to,2024-05
+last12_from,2023-06
+last12_to,2024-05
+prior12_from,2022-06
+prior12_to,2023-05
+small_base_threshold,500
+fuel_state_title,Fuel and State Wise Data for All State (2019-2026)
+fuel_state_end_month,end month not stated in source
+category_fuel_title,Vehicle Category and Fuel Data for All State (2019-2026)
+category_fuel_end_month,end month not stated in source
+fy_first,FY2011
+fy_last,FY2025
+excluded_office,M-S Nandan Fitness Testing Center (Rajasthan)
+excluded_office_months,53
+excluded_office_ev_removed,121
+excluded_office_ev_all,242942

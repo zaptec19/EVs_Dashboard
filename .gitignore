@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.vite/
+*.log
+.DS_Store
+# Reference reports (not read by the pipeline; ~33 MB). Keep locally in data/original/.
+data/original/*.pdf
+test-results/
+tsconfig.tsbuildinfo
+
+# design-tool working notes (critique snapshots, live-mode config)
+.impeccable/

@@ -1,0 +1,40 @@
+{
+  "name": "ev-dashboard-v2",
+  "private": true,
+  "version": "2.0.0",
+  "type": "module",
+  "scripts": {
+    "clean-data": "python3 data/clean_ev_data.py",
+    "data": "node scripts/build-data.mjs",
+    "dev": "vite",
+    "build": "tsc -b && vite build",
+    "preview": "vite preview --port 4173 --strictPort",
+    "contrast": "node scripts/check-contrast.mjs",
+    "verify": "node scripts/verify-site.mjs",
+    "deploy": "npm run build && gh-pages -d dist",
+    "signals": "esbuild scripts/print-signals.ts --bundle --platform=node --format=esm --log-level=warning --outfile=node_modules/.cache/print-signals.mjs && node node_modules/.cache/print-signals.mjs",
+    "tokens": "node scripts/carbon-tokens.mjs"
+  },
+  "dependencies": {
+    "d3": "^7.9.0",
+    "framer-motion": "^11.18.2",
+    "lucide-react": "^1.48.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@carbon/colors": "^11.59.0",
+    "@carbon/motion": "^11.53.0",
+    "@carbon/themes": "^11.82.0",
+    "@types/d3": "^7.4.3",
+    "@types/geojson": "^7946.0.16",
+    "@types/react": "^18.3.31",
+    "@types/react-dom": "^18.3.7",
+    "@vitejs/plugin-react": "^4.7.0",
+    "d3-dsv": "^3.0.1",
+    "gh-pages": "^6.3.0",
+    "playwright": "^1.63.0",
+    "typescript": "^5.9.3",
+    "vite": "^5.4.21"
+  }
+}

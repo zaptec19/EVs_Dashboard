@@ -1,0 +1,5 @@
+file,rule,blocks_dropped,rows_dropped,pct_rows,pct_naive_volume,source_rows,kept_rows
+vahan-vehicle-registrations-by-fuel-type.csv,v3,542,5425,1.30,84.8,418372,412947
+vahan-vehicle-registrations-by-vehicle-category.csv,v3,543,8014,1.37,84.4,584267,576253
+vahan-vehicle-registrations-by-fuel-type.csv,v2,521,5288,1.26,84.7,418372,413084
+vahan-vehicle-registrations-by-vehicle-category.csv,v2,522,7698,1.32,84.4,584267,576569
