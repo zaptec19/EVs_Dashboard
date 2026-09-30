@@ -85,6 +85,15 @@ in, with its 3W and Cars/LMV shares and ratios to India.
 recomputes them from `data/cleaned/*.csv`, asserts they match, checks the error state, and saves
 screenshots to `screenshots/`. The first run may need `npx playwright install chromium`.
 
+## Deploy to Vercel
+
+`vercel.json` pins the settings, so importing the GitHub repository needs no configuration:
+Vercel runs `npm ci` and `npm run build` and serves `dist/`. The generated data in `public/data/` is
+committed, so the build does not need Python. Every push to `main` then redeploys.
+
+1. At vercel.com, choose **Add New… > Project** and import `zaptec19/EVs_Dashboard`.
+2. Leave the detected settings as they are (Framework: Vite) and choose **Deploy**.
+
 ## Deploy to GitHub Pages
 
 `vite.config.ts` uses `base: './'` and all state lives in the URL hash, so the built `dist/` works
