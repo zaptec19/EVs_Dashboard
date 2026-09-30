@@ -157,9 +157,4 @@
   --ease-exit: cubic-bezier(0.2, 0, 1, 0.9);
 }
 
-/* No-JS fallback: follow the OS unless a theme was set explicitly. */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    color-scheme: dark;
-  }
-}
+/* Light is the default theme, including without JavaScript; dark applies only when chosen. */

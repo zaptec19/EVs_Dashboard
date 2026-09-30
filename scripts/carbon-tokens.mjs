@@ -220,12 +220,7 @@ ${block(extras(dark, D.shadow))}
 ${block(motionVars)}
 }
 
-/* No-JS fallback: follow the OS unless a theme was set explicitly. */
-@media (prefers-color-scheme: dark) {
-  :root:not([data-theme]) {
-    color-scheme: dark;
-  }
-}
+/* Light is the default theme, including without JavaScript; dark applies only when chosen. */
 `;
 writeFileSync(join(ROOT, 'src', 'tokens.css'), css);
 
